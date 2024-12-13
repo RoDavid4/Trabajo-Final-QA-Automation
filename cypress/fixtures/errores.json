@@ -1,0 +1,12 @@
+{
+    "errorsUser": {
+        "emptyUser": "Epic sadface: Username is required",
+        "emptyPass": "Epic sadface: Password is required",
+        "incorrectUserData": "Epic sadface: Username and password do not match any user in this service"
+    },
+    "buyingEmptyFields": {
+        "firstName": "Error: First Name is required",
+        "lastName": "Error: Last Name is required",
+        "postCode": "Error: Postal Code is required"
+    }
+}

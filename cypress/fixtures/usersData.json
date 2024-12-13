@@ -1,0 +1,22 @@
+{
+    "emptyUser": {
+        "Username": "",
+        "Password": ""
+    },
+    "emptyPassword": {
+        "Username": "standard_user",
+        "Password": ""
+    },
+    "incorrectUser" : {
+        "Username": "standard_user",
+        "Password": "wrong_password"
+    },
+    "standardUser": {
+        "Username": "standard_user",
+        "Password": "secret_sauce"
+    },
+    "problemUser": {
+        "Username": "problem_user",
+        "Password": "secret_sauce"
+    }
+}
